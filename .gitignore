@@ -2,11 +2,8 @@ logs
 node_modules
 .env
 .netlify
-temp_auto_push.bat
 
 #
 .DS_Store
 
 
-.gitignore
-branch_structure.json
